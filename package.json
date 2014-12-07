@@ -1,11 +1,8 @@
 {
   "name": "hockeystreams",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A node.js wrapper for the HockeySteams API.",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/naoufal/node-hockeystreams.git"
@@ -13,6 +10,8 @@
   "keywords": [
     "hockey",
     "streams",
+    "scores",
+    "nhl",
     "api"
   ],
   "author": "Naoufal Kadhom",
