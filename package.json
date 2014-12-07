@@ -1,0 +1,29 @@
+{
+  "name": "hockeystreams",
+  "version": "0.1.0",
+  "description": "A node.js wrapper for the HockeySteams API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/naoufal/node-hockeystreams.git"
+  },
+  "keywords": [
+    "hockey",
+    "streams",
+    "api"
+  ],
+  "author": "Naoufal Kadhom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naoufal/node-hockeystreams/issues"
+  },
+  "homepage": "https://github.com/naoufal/node-hockeystreams",
+  "dependencies": {
+    "URIjs": "^1.14.1",
+    "lodash": "^2.4.1",
+    "superagent": "^0.21.0"
+  }
+}
