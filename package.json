@@ -3,6 +3,9 @@
   "version": "0.1.1",
   "description": "A node.js wrapper for the HockeySteams API.",
   "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha && ./node_modules/.bin/mocha --require blanket -R html-cov > coverage.html"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/naoufal/node-hockeystreams.git"
