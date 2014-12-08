@@ -23,5 +23,15 @@
     "URIjs": "^1.14.1",
     "lodash": "^2.4.1",
     "superagent": "^0.21.0"
+  },
+  "devDependencies": {
+    "blanket": "^1.1.6",
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "config": {
+    "blanket": {
+      "pattern": "//^((?!(node_modules)).)*$/"
+    }
   }
 }
