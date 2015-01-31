@@ -23,14 +23,16 @@
   },
   "homepage": "https://github.com/naoufal/node-hockeystreams",
   "dependencies": {
-    "URIjs": "^1.14.1",
-    "lodash": "^2.4.1",
-    "superagent": "^0.21.0"
+    "URIjs": "1.14.1",
+    "lodash": "2.4.1",
+    "nock": "0.58.0",
+    "superagent": "0.21.0"
   },
   "devDependencies": {
     "blanket": "^1.1.6",
-    "chai": "^1.10.0",
-    "mocha": "^2.0.1"
+    "chai": "1.10.0",
+    "mocha": "2.1.0",
+    "nock": "0.58.0"
   },
   "config": {
     "blanket": {
