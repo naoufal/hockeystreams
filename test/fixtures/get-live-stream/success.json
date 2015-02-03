@@ -1,0 +1,78 @@
+{
+    "status": "Success",
+    "id": "34725",
+    "event": "NHL",
+    "homeTeam": "New York Rangers",
+    "showScores": "0",
+    "homeScore": "5",
+    "awayTeam": "Florida Panthers",
+    "awayScore": "3",
+    "startTime": "19:00 EST",
+    "period": "19:00 EST",
+    "isHd": "1",
+    "feedType": "Away Feed",
+    "logos": [
+        {
+            "homeSmall": "http://repo.hockeystreams.com/hs/hockey-logos/ny rangers_small.gif",
+            "homeLarge": "http://repo.hockeystreams.com/hs/hockey-logos/ny rangers.png",
+            "awaySmall": "http://repo.hockeystreams.com/hs/hockey-logos/florida_small.gif",
+            "awayLarge": "http://repo.hockeystreams.com/hs/hockey-logos/florida.png"
+        }
+    ],
+    "streams": [
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/tsi12/PREMIUM_HSTV_17HD.m3u8",
+            "location": "North America - East Canada"
+        }
+    ],
+    "HDstreams": [
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/tsi12/PREMIUM_HSTV_17HD.m3u8",
+            "location": "North America - East Canada"
+        }
+    ],
+    "SDstreams": [
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/tsi12/PREMIUM_HSTV_17SD.f4m",
+            "location": "North America - East Canada"
+        }
+    ],
+    "nonDVR": [
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/tsi12/PREMIUM_HSTV_17_m.m3u8?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYXp3ekJKeGJ6cVk3UzAzanpTVGtsV3c9",
+            "location": "North America - East Canada"
+        }
+    ],
+    "nonDVRSD": [
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/tsi12/PREMIUM_HSTV_17SD_m.m3u8?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYXp3ekJKeGJ6cVk3UzAzanpTVGtsV3c9",
+            "location": "North America - East Canada"
+        }
+    ],
+    "nonDVRHD": [
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/tsi12/PREMIUM_HSTV_17HD_m.m3u8?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYXp3ekJKeGJ6cVk3UzAzanpTVGtsV3c9",
+            "location": "North America - East Canada"
+        }
+    ],
+    "TrueLiveSD": [
+        {
+            "type": "Flash Live",
+            "src": "rtmp://167.114.64.87/publishing/PREMIUM_HSTV_17/livestream1 swfUrl='http://www6.hockeystreams.com/player/player.swf?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYXp3ekJKeGJ6cVk3UzAzanpTVGtsV3c9' live=1 swfVfy=1",
+            "location": "North America - East Canada"
+        }
+    ],
+    "TrueLiveHD": [
+        {
+            "type": "Flash Live",
+            "src": "rtmp://167.114.64.87/publishing/PREMIUM_HSTV_17/livestream2 swfUrl='http://www6.hockeystreams.com/player/player.swf?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYXp3ekJKeGJ6cVk3UzAzanpTVGtsV3c9' live=1 swfVfy=1",
+            "location": "North America - East Canada"
+        }
+    ]
+}
