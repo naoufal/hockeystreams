@@ -1,0 +1,1022 @@
+{
+    "status": "Success",
+    "teams": [
+        {
+            "league": "AHL",
+            "name": "Abbotsford Heat"
+        },
+        {
+            "league": "AHL",
+            "name": "Adirondack Flames"
+        },
+        {
+            "league": "AHL",
+            "name": "Adirondack Phantoms"
+        },
+        {
+            "league": "AHL",
+            "name": "Albany Devils"
+        },
+        {
+            "league": "AHL",
+            "name": "Binghamton Senators"
+        },
+        {
+            "league": "AHL",
+            "name": "Bridgeport Sound Tigers"
+        },
+        {
+            "league": "AHL",
+            "name": "Charlotte Checkers"
+        },
+        {
+            "league": "AHL",
+            "name": "Chicago Wolves"
+        },
+        {
+            "league": "AHL",
+            "name": "Farjestad BK"
+        },
+        {
+            "league": "AHL",
+            "name": "Grand Rapids Griffins"
+        },
+        {
+            "league": "AHL",
+            "name": "Hamilton Bulldogs"
+        },
+        {
+            "league": "AHL",
+            "name": "Hartford Wolf Pack "
+        },
+        {
+            "league": "AHL",
+            "name": "Hershey Bears"
+        },
+        {
+            "league": "AHL",
+            "name": "Iowa Wild"
+        },
+        {
+            "league": "AHL",
+            "name": "Lake Erie Monsters"
+        },
+        {
+            "league": "AHL",
+            "name": "Lehigh Valley Phantoms"
+        },
+        {
+            "league": "AHL",
+            "name": "Manchester Monarchs"
+        },
+        {
+            "league": "AHL",
+            "name": "Milwaukee Admirals"
+        },
+        {
+            "league": "AHL",
+            "name": "Norfolk Admirals"
+        },
+        {
+            "league": "AHL",
+            "name": "Oklahoma City Barons"
+        },
+        {
+            "league": "AHL",
+            "name": "Portland Pirates"
+        },
+        {
+            "league": "AHL",
+            "name": "Providence Bruins"
+        },
+        {
+            "league": "AHL",
+            "name": "Rochester Americans"
+        },
+        {
+            "league": "AHL",
+            "name": "Rockford IceHogs"
+        },
+        {
+            "league": "AHL",
+            "name": "San Antonio Rampage"
+        },
+        {
+            "league": "AHL",
+            "name": "Springfield Falcons"
+        },
+        {
+            "league": "AHL",
+            "name": "St Johns IceCaps"
+        },
+        {
+            "league": "AHL",
+            "name": "Syracuse Crunch"
+        },
+        {
+            "league": "AHL",
+            "name": "Texas Stars"
+        },
+        {
+            "league": "AHL",
+            "name": "Toronto Marlies"
+        },
+        {
+            "league": "AHL",
+            "name": "Utica Comets"
+        },
+        {
+            "league": "AHL",
+            "name": "Wilkes-Barre Scranton Penguins"
+        },
+        {
+            "league": "AHL",
+            "name": "Worcester Sharks"
+        },
+        {
+            "league": "CHL",
+            "name": "Team Cherry"
+        },
+        {
+            "league": "CHL",
+            "name": "Team Orr"
+        },
+        {
+            "league": "CIS",
+            "name": "Alberta"
+        },
+        {
+            "league": "CIS",
+            "name": "Saskatchewan"
+        },
+        {
+            "league": "Frozen Four",
+            "name": "Boston College"
+        },
+        {
+            "league": "Frozen Four",
+            "name": "Minnesota"
+        },
+        {
+            "league": "Frozen Four",
+            "name": "North Dakota"
+        },
+        {
+            "league": "Frozen Four",
+            "name": "Union"
+        },
+        {
+            "league": "Frozen Four",
+            "name": "Union NY"
+        },
+        {
+            "league": "IIHF",
+            "name": "Belarus"
+        },
+        {
+            "league": "IIHF",
+            "name": "Czech Republic"
+        },
+        {
+            "league": "IIHF",
+            "name": "Finland"
+        },
+        {
+            "league": "IIHF",
+            "name": "France"
+        },
+        {
+            "league": "IIHF",
+            "name": "Italy"
+        },
+        {
+            "league": "IIHF",
+            "name": "Kazakhstan"
+        },
+        {
+            "league": "IIHF",
+            "name": "Norway"
+        },
+        {
+            "league": "IIHF",
+            "name": "Russia"
+        },
+        {
+            "league": "IIHF",
+            "name": "Slovakia"
+        },
+        {
+            "league": "IIHF",
+            "name": "Sweden"
+        },
+        {
+            "league": "IIHF",
+            "name": "Switzerland"
+        },
+        {
+            "league": "IIHF",
+            "name": "USA"
+        },
+        {
+            "league": "Memorial Cup",
+            "name": "Czech Republic"
+        },
+        {
+            "league": "Memorial Cup",
+            "name": "Edmonton"
+        },
+        {
+            "league": "Memorial Cup",
+            "name": "France"
+        },
+        {
+            "league": "Memorial Cup",
+            "name": "Guelph"
+        },
+        {
+            "league": "Memorial Cup",
+            "name": "Guelph Storm"
+        },
+        {
+            "league": "Memorial Cup",
+            "name": "London"
+        },
+        {
+            "league": "Memorial Cup",
+            "name": "London Knights"
+        },
+        {
+            "league": "Memorial Cup",
+            "name": "Val-dOr Foreurs"
+        },
+        {
+            "league": "NHL",
+            "name": "Anaheim Ducks"
+        },
+        {
+            "league": "NHL",
+            "name": "Arizona Coyotes"
+        },
+        {
+            "league": "NHL",
+            "name": "Boston Bruins"
+        },
+        {
+            "league": "NHL",
+            "name": "Buffalo Sabres"
+        },
+        {
+            "league": "NHL",
+            "name": "Calgary Flames"
+        },
+        {
+            "league": "NHL",
+            "name": "Carolina Hurricanes"
+        },
+        {
+            "league": "NHL",
+            "name": "Chicago Blackhawks"
+        },
+        {
+            "league": "NHL",
+            "name": "Colorado Avalanche"
+        },
+        {
+            "league": "NHL",
+            "name": "Columbus Blue Jackets"
+        },
+        {
+            "league": "NHL",
+            "name": "Dallas Stars"
+        },
+        {
+            "league": "NHL",
+            "name": "Detroit Red Wings"
+        },
+        {
+            "league": "NHL",
+            "name": "Edmonton Oilers"
+        },
+        {
+            "league": "NHL",
+            "name": "Florida Panthers"
+        },
+        {
+            "league": "NHL",
+            "name": "Los Angeles Kings"
+        },
+        {
+            "league": "NHL",
+            "name": "Minnesota Wild"
+        },
+        {
+            "league": "NHL",
+            "name": "Montreal Canadiens"
+        },
+        {
+            "league": "NHL",
+            "name": "Nashville Predators"
+        },
+        {
+            "league": "NHL",
+            "name": "New Jersey Devils"
+        },
+        {
+            "league": "NHL",
+            "name": "New York Islanders"
+        },
+        {
+            "league": "NHL",
+            "name": "New York Rangers"
+        },
+        {
+            "league": "NHL",
+            "name": "Ottawa Senators"
+        },
+        {
+            "league": "NHL",
+            "name": "Philadelphia Flyers"
+        },
+        {
+            "league": "NHL",
+            "name": "Phoenix Coyotes"
+        },
+        {
+            "league": "NHL",
+            "name": "Pittsburgh Penguins"
+        },
+        {
+            "league": "NHL",
+            "name": "San Jose Sharks"
+        },
+        {
+            "league": "NHL",
+            "name": "St Louis Blues"
+        },
+        {
+            "league": "NHL",
+            "name": "Tampa Bay Lightning"
+        },
+        {
+            "league": "NHL",
+            "name": "Team Foligno"
+        },
+        {
+            "league": "NHL",
+            "name": "Team Toews"
+        },
+        {
+            "league": "NHL",
+            "name": "Toronto Maple Leafs"
+        },
+        {
+            "league": "NHL",
+            "name": "Vancouver Canucks"
+        },
+        {
+            "league": "NHL",
+            "name": "Washington Capitals"
+        },
+        {
+            "league": "NHL",
+            "name": "Winnipeg Jets"
+        },
+        {
+            "league": "NHL Camp",
+            "name": "Chicago Blackhawks"
+        },
+        {
+            "league": "NHL Camp",
+            "name": "Ottawa Senators"
+        },
+        {
+            "league": "OHL",
+            "name": "Barrie Colts"
+        },
+        {
+            "league": "OHL",
+            "name": "Belleville Bulls"
+        },
+        {
+            "league": "OHL",
+            "name": "Erie Otters"
+        },
+        {
+            "league": "OHL",
+            "name": "Guelph Storm"
+        },
+        {
+            "league": "OHL",
+            "name": "Kingston Frontenacs"
+        },
+        {
+            "league": "OHL",
+            "name": "Kitchener Rangers"
+        },
+        {
+            "league": "OHL",
+            "name": "London Knights"
+        },
+        {
+            "league": "OHL",
+            "name": "Mississauga Steelheads"
+        },
+        {
+            "league": "OHL",
+            "name": "Niagara Ice Dogs"
+        },
+        {
+            "league": "OHL",
+            "name": "North Bay Battalion"
+        },
+        {
+            "league": "OHL",
+            "name": "Oshawa Generals"
+        },
+        {
+            "league": "OHL",
+            "name": "Ottawa 67s"
+        },
+        {
+            "league": "OHL",
+            "name": "Owen Sound Attack"
+        },
+        {
+            "league": "OHL",
+            "name": "Peterborough Petes"
+        },
+        {
+            "league": "OHL",
+            "name": "Plymouth Whalers"
+        },
+        {
+            "league": "OHL",
+            "name": "Saginaw Spirit"
+        },
+        {
+            "league": "OHL",
+            "name": "Sarnia Sting"
+        },
+        {
+            "league": "OHL",
+            "name": "Sault Ste Marie Greyhounds "
+        },
+        {
+            "league": "OHL",
+            "name": "Sudbury Wolves"
+        },
+        {
+            "league": "OHL",
+            "name": "Windsor Spitfires"
+        },
+        {
+            "league": "Olympics",
+            "name": "Austria"
+        },
+        {
+            "league": "Olympics",
+            "name": "Canada"
+        },
+        {
+            "league": "Olympics",
+            "name": "Czech Republic"
+        },
+        {
+            "league": "Olympics",
+            "name": "Finland"
+        },
+        {
+            "league": "Olympics",
+            "name": "Latvia"
+        },
+        {
+            "league": "Olympics",
+            "name": "Norway"
+        },
+        {
+            "league": "Olympics",
+            "name": "Russia"
+        },
+        {
+            "league": "Olympics",
+            "name": "Slovakia"
+        },
+        {
+            "league": "Olympics",
+            "name": "Slovenia"
+        },
+        {
+            "league": "Olympics",
+            "name": "Sweden"
+        },
+        {
+            "league": "Olympics",
+            "name": "Switzerland"
+        },
+        {
+            "league": "Olympics",
+            "name": "USA"
+        },
+        {
+            "league": "PPV",
+            "name": "Algeria"
+        },
+        {
+            "league": "PPV",
+            "name": "Argentina"
+        },
+        {
+            "league": "PPV",
+            "name": "Australia"
+        },
+        {
+            "league": "PPV",
+            "name": "Belgium"
+        },
+        {
+            "league": "PPV",
+            "name": "Bosnia"
+        },
+        {
+            "league": "PPV",
+            "name": "Bosnia and Herzegovina"
+        },
+        {
+            "league": "PPV",
+            "name": "Bosnia-Herzegovina"
+        },
+        {
+            "league": "PPV",
+            "name": "Brazil"
+        },
+        {
+            "league": "PPV",
+            "name": "Cameroon"
+        },
+        {
+            "league": "PPV",
+            "name": "Chile"
+        },
+        {
+            "league": "PPV",
+            "name": "Colombia"
+        },
+        {
+            "league": "PPV",
+            "name": "Costa Rica"
+        },
+        {
+            "league": "PPV",
+            "name": "Croatia"
+        },
+        {
+            "league": "PPV",
+            "name": "Ecuador"
+        },
+        {
+            "league": "PPV",
+            "name": "England"
+        },
+        {
+            "league": "PPV",
+            "name": "France"
+        },
+        {
+            "league": "PPV",
+            "name": "Germany"
+        },
+        {
+            "league": "PPV",
+            "name": "Ghana"
+        },
+        {
+            "league": "PPV",
+            "name": "Greece"
+        },
+        {
+            "league": "PPV",
+            "name": "Honduras"
+        },
+        {
+            "league": "PPV",
+            "name": "Iran"
+        },
+        {
+            "league": "PPV",
+            "name": "Italy"
+        },
+        {
+            "league": "PPV",
+            "name": "Ivory Coast"
+        },
+        {
+            "league": "PPV",
+            "name": "Japan"
+        },
+        {
+            "league": "PPV",
+            "name": "Korea Republic"
+        },
+        {
+            "league": "PPV",
+            "name": "Mexico"
+        },
+        {
+            "league": "PPV",
+            "name": "Netherlands"
+        },
+        {
+            "league": "PPV",
+            "name": "Nigeria"
+        },
+        {
+            "league": "PPV",
+            "name": "Portugal"
+        },
+        {
+            "league": "PPV",
+            "name": "Russia"
+        },
+        {
+            "league": "PPV",
+            "name": "South Korea"
+        },
+        {
+            "league": "PPV",
+            "name": "Spain"
+        },
+        {
+            "league": "PPV",
+            "name": "Switzerland"
+        },
+        {
+            "league": "PPV",
+            "name": "United States"
+        },
+        {
+            "league": "PPV",
+            "name": "Uruguay"
+        },
+        {
+            "league": "PPV",
+            "name": "USA"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Acadie-Bathurst Titan"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Baie-Comeau Drakkar"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Blainville-Boisbriand Armada"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Blainville-Broisbriand Armada"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Cape Breton Screaming Eagles"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Charlottetown Islanders"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Chicoutimi Sagueneens"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Drummondville Voltigeurs"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Gatineau Olympiques"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Halifax Mooseheads"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Moncton Wildcats"
+        },
+        {
+            "league": "QMJHL",
+            "name": "PEI Rocket"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Quebec Remparts"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Rimouski Oceanic"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Rouyn-Noranda Huskies"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Saint John Sea Dogs"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Shawinigan Cataractes"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Sherbrooke Phoenix"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Val-dOr Foreurs"
+        },
+        {
+            "league": "QMJHL",
+            "name": "Victoriaville Tigres"
+        },
+        {
+            "league": "Rookie Camp",
+            "name": "Chicago Blackhawks"
+        },
+        {
+            "league": "Rookie Camp",
+            "name": "Ottawa Senators"
+        },
+        {
+            "league": "Rookie Camp",
+            "name": "Pittsburgh Penguins"
+        },
+        {
+            "league": "Rookie Camp",
+            "name": "Toronto Maple Leafs"
+        },
+        {
+            "league": "Spengler Cup",
+            "name": "Geneve-Servette"
+        },
+        {
+            "league": "Spengler Cup",
+            "name": "HC Davos"
+        },
+        {
+            "league": "Spengler Cup",
+            "name": "Medvescak Zagreb"
+        },
+        {
+            "league": "Spengler Cup",
+            "name": "Team Canada"
+        },
+        {
+            "league": "Super Series",
+            "name": "OHL"
+        },
+        {
+            "league": "Super Series",
+            "name": "QMJHL"
+        },
+        {
+            "league": "Super Series",
+            "name": "Russia"
+        },
+        {
+            "league": "Super Series",
+            "name": "WHL"
+        },
+        {
+            "league": "U16 Challenge Cup",
+            "name": "Alberta"
+        },
+        {
+            "league": "U16 Challenge Cup",
+            "name": "British Columbia"
+        },
+        {
+            "league": "U16 Challenge Cup",
+            "name": "Manitoba"
+        },
+        {
+            "league": "U16 Challenge Cup",
+            "name": "Saskatchewan"
+        },
+        {
+            "league": "U17",
+            "name": "Canada Pacific"
+        },
+        {
+            "league": "U17",
+            "name": "USA"
+        },
+        {
+            "league": "U18",
+            "name": "Czech Republic"
+        },
+        {
+            "league": "U18",
+            "name": "Gold"
+        },
+        {
+            "league": "U18",
+            "name": "Medal"
+        },
+        {
+            "league": "U18",
+            "name": "Russia"
+        },
+        {
+            "league": "U18",
+            "name": "Switzerland"
+        },
+        {
+            "league": "WHL",
+            "name": "Brandon Wheat Kings"
+        },
+        {
+            "league": "WHL",
+            "name": "Calgary Hitmen"
+        },
+        {
+            "league": "WHL",
+            "name": "Edmonton Oil Kings"
+        },
+        {
+            "league": "WHL",
+            "name": "Everett Silvertips"
+        },
+        {
+            "league": "WHL",
+            "name": "Kamloops Blazers"
+        },
+        {
+            "league": "WHL",
+            "name": "Kelowna Rockets"
+        },
+        {
+            "league": "WHL",
+            "name": "Kootenay Ice"
+        },
+        {
+            "league": "WHL",
+            "name": "Lethbridge Hurricanes"
+        },
+        {
+            "league": "WHL",
+            "name": "Medicine Hat Tigers"
+        },
+        {
+            "league": "WHL",
+            "name": "Moose Jaw Warriors"
+        },
+        {
+            "league": "WHL",
+            "name": "Portland Winterhawks"
+        },
+        {
+            "league": "WHL",
+            "name": "Prince Albert Raiders"
+        },
+        {
+            "league": "WHL",
+            "name": "Prince George Cougars"
+        },
+        {
+            "league": "WHL",
+            "name": "Red Deer Rebels"
+        },
+        {
+            "league": "WHL",
+            "name": "Regina Pats"
+        },
+        {
+            "league": "WHL",
+            "name": "Saskatoon Blades"
+        },
+        {
+            "league": "WHL",
+            "name": "Seattle Thunderbirds"
+        },
+        {
+            "league": "WHL",
+            "name": "Spokane Chiefs"
+        },
+        {
+            "league": "WHL",
+            "name": "Swift Current Broncos"
+        },
+        {
+            "league": "WHL",
+            "name": "Tri-City Americans"
+        },
+        {
+            "league": "WHL",
+            "name": "Vancouver Giants"
+        },
+        {
+            "league": "WHL",
+            "name": "Victoria Royals"
+        },
+        {
+            "league": "WJC",
+            "name": "Canada"
+        },
+        {
+            "league": "WJC",
+            "name": "Finland"
+        },
+        {
+            "league": "WJC",
+            "name": "Germany"
+        },
+        {
+            "league": "WJC",
+            "name": "Russia"
+        },
+        {
+            "league": "WJC",
+            "name": "Sweden"
+        },
+        {
+            "league": "WJC",
+            "name": "Switzerland"
+        },
+        {
+            "league": "Womens",
+            "name": "Canada"
+        },
+        {
+            "league": "Womens",
+            "name": "Finland"
+        },
+        {
+            "league": "Womens",
+            "name": "Germany"
+        },
+        {
+            "league": "Womens",
+            "name": "Japan"
+        },
+        {
+            "league": "Womens",
+            "name": "Russia"
+        },
+        {
+            "league": "Womens",
+            "name": "Sweden"
+        },
+        {
+            "league": "Womens",
+            "name": "Switzerland"
+        },
+        {
+            "league": "Womens",
+            "name": "USA"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Canada"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Czech Republic"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Denmark"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Finland"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Germany"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Russia"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Slovakia"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Sweden"
+        },
+        {
+            "league": "World Juniors",
+            "name": "Switzerland"
+        },
+        {
+            "league": "World Juniors",
+            "name": "USA"
+        }
+    ]
+}
+

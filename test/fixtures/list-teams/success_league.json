@@ -1,0 +1,146 @@
+{
+    "status": "Success",
+    "teams": [
+        {
+            "league": "NHL",
+            "name": "Abbotsford Heat"
+        },
+        {
+            "league": "NHL",
+            "name": "Acadie-Bathurst Titan"
+        },
+        {
+            "league": "NHL",
+            "name": "Anaheim Ducks"
+        },
+        {
+            "league": "NHL",
+            "name": "Arizona Coyotes"
+        },
+        {
+            "league": "NHL",
+            "name": "Boston Bruins"
+        },
+        {
+            "league": "NHL",
+            "name": "Buffalo Sabres"
+        },
+        {
+            "league": "NHL",
+            "name": "Calgary Flames"
+        },
+        {
+            "league": "NHL",
+            "name": "Carolina Hurricanes"
+        },
+        {
+            "league": "NHL",
+            "name": "Chicago Blackhawks"
+        },
+        {
+            "league": "NHL",
+            "name": "Colorado Avalanche"
+        },
+        {
+            "league": "NHL",
+            "name": "Columbus Blue Jackets"
+        },
+        {
+            "league": "NHL",
+            "name": "Dallas Stars"
+        },
+        {
+            "league": "NHL",
+            "name": "Detroit Red Wings"
+        },
+        {
+            "league": "NHL",
+            "name": "Edmonton Oilers"
+        },
+        {
+            "league": "NHL",
+            "name": "Florida Panthers"
+        },
+        {
+            "league": "NHL",
+            "name": "Los Angeles Kings"
+        },
+        {
+            "league": "NHL",
+            "name": "Minnesota Wild"
+        },
+        {
+            "league": "NHL",
+            "name": "Montreal Canadiens"
+        },
+        {
+            "league": "NHL",
+            "name": "Nashville Predators"
+        },
+        {
+            "league": "NHL",
+            "name": "New Jersey Devils"
+        },
+        {
+            "league": "NHL",
+            "name": "New York Islanders"
+        },
+        {
+            "league": "NHL",
+            "name": "New York Rangers"
+        },
+        {
+            "league": "NHL",
+            "name": "Ottawa Senators"
+        },
+        {
+            "league": "NHL",
+            "name": "Philadelphia Flyers"
+        },
+        {
+            "league": "NHL",
+            "name": "Phoenix Coyotes"
+        },
+        {
+            "league": "NHL",
+            "name": "Pittsburgh Penguins"
+        },
+        {
+            "league": "NHL",
+            "name": "San Jose Sharks"
+        },
+        {
+            "league": "NHL",
+            "name": "St Louis Blues"
+        },
+        {
+            "league": "NHL",
+            "name": "Tampa Bay Lightning"
+        },
+        {
+            "league": "NHL",
+            "name": "Team Foligno"
+        },
+        {
+            "league": "NHL",
+            "name": "Team Toews"
+        },
+        {
+            "league": "NHL",
+            "name": "Toronto Maple Leafs"
+        },
+        {
+            "league": "NHL",
+            "name": "Vancouver Canucks"
+        },
+        {
+            "league": "NHL",
+            "name": "Washington Capitals"
+        },
+        {
+            "league": "NHL",
+            "name": "Winnipeg Jets"
+        }
+    ]
+}
+
