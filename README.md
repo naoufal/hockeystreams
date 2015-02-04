@@ -6,12 +6,14 @@
 /_/ /_/\____/\___/_/|_|\___/\__, /____/\__/_/   \___/\__,_/_/ /_/ /_/____/
                            /____/
 ```
-node-hockeystreams
+hockeystreams
 ==================
 
 A node.js wrapper for the [HockeySteams API](https://www.hockeystreams.com/api).
 
 [![NPM Version](https://img.shields.io/npm/v/hockeystreams.svg)](https://www.npmjs.org/package/hockeystreams)
+[![Build Status](https://travis-ci.org/naoufal/hockeystreams.svg?branch=master)](https://travis-ci.org/naoufal/hockeystreams)
+[![Coverage Status](https://coveralls.io/repos/naoufal/hockeystreams/badge.svg)](https://coveralls.io/r/naoufal/hockeystreams)
 
 ## Install
 
@@ -25,18 +27,18 @@ The HockeyStreams API requires an API Key which can be obtained [here](https://w
 ## Documentation
 
 ### Functions
-- [`init`](https://github.com/naoufal/node-hockeystreams#initoptions)
-- [`login`](https://github.com/naoufal/node-hockeystreams#loginoptions-callback)
-- [`getLive`](https://github.com/naoufal/node-hockeystreams#getliveoptions-callback)
-- [`getLiveStream`](https://github.com/naoufal/node-hockeystreams#getlivestreamoptions-callback)
-- [`getLocations`](https://github.com/naoufal/node-hockeystreams#getlocationscallback)
-- [`getOnDemandDates`](https://github.com/naoufal/node-hockeystreams#getondemanddatesoptions-callback)
-- [`getOnDemand`](https://github.com/naoufal/node-hockeystreams#getondemandoptions-callback)
-- [`getOnDemandStream`](https://github.com/naoufal/node-hockeystreams#getondemandstreamoptions-callback)
-- [`getHighlights`](https://github.com/naoufal/node-hockeystreams#gethighlightsoptions-callback)
-- [`getCondensedGames`](https://github.com/naoufal/node-hockeystreams#getcondensedgamesoptions-callback)
-- [`listTeams`](https://github.com/naoufal/node-hockeystreams#listteamsoptions-callback)
-- [`scores`](https://github.com/naoufal/node-hockeystreams#scoresoptions-callback)
+- [`init`](https://github.com/naoufal/hockeystreams#initoptions)
+- [`login`](https://github.com/naoufal/hockeystreams#loginoptions-callback)
+- [`getLive`](https://github.com/naoufal/hockeystreams#getliveoptions-callback)
+- [`getLiveStream`](https://github.com/naoufal/hockeystreams#getlivestreamoptions-callback)
+- [`getLocations`](https://github.com/naoufal/hockeystreams#getlocationscallback)
+- [`getOnDemandDates`](https://github.com/naoufal/hockeystreams#getondemanddatesoptions-callback)
+- [`getOnDemand`](https://github.com/naoufal/hockeystreams#getondemandoptions-callback)
+- [`getOnDemandStream`](https://github.com/naoufal/hockeystreams#getondemandstreamoptions-callback)
+- [`getHighlights`](https://github.com/naoufal/hockeystreams#gethighlightsoptions-callback)
+- [`getCondensedGames`](https://github.com/naoufal/hockeystreams#getcondensedgamesoptions-callback)
+- [`listTeams`](https://github.com/naoufal/hockeystreams#listteamsoptions-callback)
+- [`scores`](https://github.com/naoufal/hockeystreams#scoresoptions-callback)
 
 ## Functions
 
