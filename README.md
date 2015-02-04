@@ -14,6 +14,7 @@ A node.js wrapper for the [HockeySteams API](https://www.hockeystreams.com/api).
 [![NPM Version](https://img.shields.io/npm/v/hockeystreams.svg)](https://www.npmjs.org/package/hockeystreams)
 [![Build Status](https://travis-ci.org/naoufal/hockeystreams.svg?branch=master)](https://travis-ci.org/naoufal/hockeystreams)
 [![Coverage Status](https://coveralls.io/repos/naoufal/hockeystreams/badge.svg)](https://coveralls.io/r/naoufal/hockeystreams)
+[![Code Climate](https://codeclimate.com/github/naoufal/hockeystreams/badges/gpa.svg)](https://codeclimate.com/github/naoufal/hockeystreams)
 
 ## Install
 
