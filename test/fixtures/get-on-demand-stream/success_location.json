@@ -1,0 +1,73 @@
+{
+    "status": "Success",
+    "id": "21220",
+    "event": "NHL",
+    "homeTeam": "Ottawa Senators",
+    "awayTeam": "Toronto Maple Leafs",
+    "WindowsMediaSRC": "",
+    "FlashSRC": "http://watch.hscontent.com/ondemand/nl3/01212015/34618HD.m3u8",
+    "iStreamSRC": "http://watch.hscontent.com/ondemand/nl3/01212015/34618HD.m3u8",
+    "hlsSRC": "http://159.8.16.10/vod5//01212015/34618HD.mp4",
+    "logos": [
+        {
+            "homeSmall": "http://repo.hockeystreams.com/hs/hockey-logos/ottawa_small.gif",
+            "homeLarge": "http://repo.hockeystreams.com/hs/hockey-logos/ottawa.png",
+            "awaySmall": "http://repo.hockeystreams.com/hs/hockey-logos/toronto_small.gif",
+            "awayLarge": "http://repo.hockeystreams.com/hs/hockey-logos/toronto.png"
+        }
+    ],
+    "highlights": [
+        {
+            "lowQualitySrc": "",
+            "medQualitySrc": "",
+            "highQualitySrc": "",
+            "homeSrc": "",
+            "awaySrc": ""
+        }
+    ],
+    "condensed": [
+        {
+            "lowQualitySrc": "",
+            "medQualitySrc": "",
+            "highQualitySrc": "",
+            "homeSrc": "",
+            "awaySrc": ""
+        }
+    ],
+    "streams": [
+        {
+            "type": "Flash",
+            "src": "http://watch.hscontent.com/ondemand/nl3/01212015/34618HD.m3u8?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYTZCVmxUeWRNRmpkdmxFbmgvVnNMRTQ9",
+            "location": "Europe"
+        },
+        {
+            "type": "Windows Media",
+            "src": "",
+            "location": "Europe"
+        },
+        {
+            "type": "HLS",
+            "src": "http://159.8.16.10/vod5//01212015/34618HD.mp4?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYTZCVmxUeWRNRmpkdmxFbmgvVnNMRTQ9",
+            "location": "Europe"
+        },
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/ondemand/nl3/01212015/34618HD.m3u8?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYTZCVmxUeWRNRmpkdmxFbmgvVnNMRTQ9",
+            "location": "Europe"
+        }
+    ],
+    "HDstreams": [
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/ondemand/nl3/01212015/34618HD.m3u8?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYTZCVmxUeWRNRmpkdmxFbmgvVnNMRTQ9",
+            "location": "Europe"
+        }
+    ],
+    "SDstreams": [
+        {
+            "type": "iStream",
+            "src": "http://watch.hscontent.com/ondemand/nl3/01212015/34618SD.m3u8?token=OXl0SkVaTFZ2VTROVjh3UVMva255QjJNSFQwTkE1S2VCaHAwQmxIa3VNMkNKWkV2ZmZ3eEdZWkcrVytyUTlSZjhSSmQxR2Vvb3paa0RmOW1xa21EYTZCVmxUeWRNRmpkdmxFbmgvVnNMRTQ9",
+            "location": "Europe"
+        }
+    ]
+}

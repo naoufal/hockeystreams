@@ -1,0 +1,77 @@
+{
+    "status": "Success",
+    "condensed": [
+        {
+            "id": "21558",
+            "date": "02/02/2015",
+            "event": "NHL",
+            "homeTeam": "San Jose Sharks",
+            "awayTeam": "Edmonton Oilers",
+            "lowQualitySrc": "",
+            "medQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_a_condensed_1_1600.mp4",
+            "highQualitySrc": "",
+            "homeSrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_a_condensed_1_1600.mp4",
+            "awaySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_a_condensed_1_1600.mp4"
+        },
+        {
+            "id": "21557",
+            "date": "02/02/2015",
+            "event": "NHL",
+            "homeTeam": "San Jose Sharks",
+            "awayTeam": "Edmonton Oilers",
+            "lowQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_a_condensed_1_800.mp4",
+            "medQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_h_condensed_1_1600.mp4",
+            "highQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_a_condensed_1_4500.mp4",
+            "homeSrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_h_condensed_1_1600.mp4",
+            "awaySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_h_condensed_1_1600.mp4"
+        },
+        {
+            "id": "21556",
+            "date": "02/02/2015",
+            "event": "NHL",
+            "homeTeam": "Calgary Flames",
+            "awayTeam": "Winnipeg Jets",
+            "lowQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_h_condensed_1_800.mp4",
+            "medQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_a_condensed_1_1600.mp4",
+            "highQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/744/2_744_edm_sjs_1415_h_condensed_1_4500.mp4",
+            "homeSrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_a_condensed_1_1600.mp4",
+            "awaySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_a_condensed_1_1600.mp4"
+        },
+        {
+            "id": "21555",
+            "date": "02/02/2015",
+            "event": "NHL",
+            "homeTeam": "Calgary Flames",
+            "awayTeam": "Winnipeg Jets",
+            "lowQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_a_condensed_1_800.mp4",
+            "medQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_h_condensed_1_1600.mp4",
+            "highQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_a_condensed_1_4500.mp4",
+            "homeSrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_h_condensed_1_1600.mp4",
+            "awaySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_h_condensed_1_1600.mp4"
+        },
+        {
+            "id": "21554",
+            "date": "02/02/2015",
+            "event": "NHL",
+            "homeTeam": "New York Rangers",
+            "awayTeam": "Florida Panthers",
+            "lowQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_h_condensed_1_800.mp4",
+            "medQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/742/2_742_fla_nyr_1415_a_condensed_1_1600.mp4",
+            "highQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/743/2_743_wpg_cgy_1415_h_condensed_1_4500.mp4",
+            "homeSrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/742/2_742_fla_nyr_1415_a_condensed_1_1600.mp4",
+            "awaySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/742/2_742_fla_nyr_1415_a_condensed_1_1600.mp4"
+        },
+        {
+            "id": "21553",
+            "date": "02/02/2015",
+            "event": "NHL",
+            "homeTeam": "New York Rangers",
+            "awayTeam": "Florida Panthers",
+            "lowQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/742/2_742_fla_nyr_1415_a_condensed_1_800.mp4",
+            "medQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/742/2_742_fla_nyr_1415_h_condensed_1_1600.mp4",
+            "highQualitySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/742/2_742_fla_nyr_1415_a_condensed_1_4500.mp4",
+            "homeSrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/742/2_742_fla_nyr_1415_h_condensed_1_1600.mp4",
+            "awaySrc": "http://nlds150.cdnak.neulion.com/nlds_vod/nhl/vod/2015/02/02/742/2_742_fla_nyr_1415_h_condensed_1_1600.mp4"
+        }
+    ]
+}

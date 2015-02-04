@@ -1,0 +1,101 @@
+{
+    "status": "Success",
+    "highlights": [
+        {
+            "id": "21571",
+            "date": "02/03/2015",
+            "event": "NHL",
+            "homeTeam": "Columbus Blue Jackets",
+            "awayTeam": "Arizona Coyotes",
+            "lowQualitySrc": "",
+            "medQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "highQualitySrc": "",
+            "homeSrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "awaySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4"
+        },
+        {
+            "id": "21570",
+            "date": "02/03/2015",
+            "event": "NHL",
+            "homeTeam": "Columbus Blue Jackets",
+            "awayTeam": "Arizona Coyotes",
+            "lowQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_800.mp4",
+            "medQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "highQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_4500.mp4",
+            "homeSrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "awaySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4"
+        },
+        {
+            "id": "21568",
+            "date": "02/03/2015",
+            "event": "NHL",
+            "homeTeam": "New York Islanders",
+            "awayTeam": "Florida Panthers",
+            "lowQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_800.mp4",
+            "medQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "highQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_4500.mp4",
+            "homeSrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "awaySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4"
+        },
+        {
+            "id": "21567",
+            "date": "02/03/2015",
+            "event": "NHL",
+            "homeTeam": "New York Islanders",
+            "awayTeam": "Florida Panthers",
+            "lowQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_800.mp4",
+            "medQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "highQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_4500.mp4",
+            "homeSrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "awaySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4"
+        },
+        {
+            "id": "21566",
+            "date": "02/03/2015",
+            "event": "NHL",
+            "homeTeam": "Washington Capitals",
+            "awayTeam": "Los Angeles Kings",
+            "lowQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_800.mp4",
+            "medQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "highQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_4500.mp4",
+            "homeSrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "awaySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4"
+        },
+        {
+            "id": "21565",
+            "date": "02/03/2015",
+            "event": "NHL",
+            "homeTeam": "Washington Capitals",
+            "awayTeam": "Los Angeles Kings",
+            "lowQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_800.mp4",
+            "medQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "highQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_4500.mp4",
+            "homeSrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "awaySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4"
+        },
+        {
+            "id": "21564",
+            "date": "02/03/2015",
+            "event": "NHL",
+            "homeTeam": "New Jersey Devils",
+            "awayTeam": "Ottawa Senators",
+            "lowQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_800.mp4",
+            "medQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "highQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_4500.mp4",
+            "homeSrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "awaySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4"
+        },
+        {
+            "id": "21563",
+            "date": "02/03/2015",
+            "event": "NHL",
+            "homeTeam": "New Jersey Devils",
+            "awayTeam": "Ottawa Senators",
+            "lowQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_800.mp4",
+            "medQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "highQualitySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_4500.mp4",
+            "homeSrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4",
+            "awaySrc": "http://e1.cdnl3.neulion.com/nhl/mobile/preroll/highlights/check_back_shortly_for_highlights3_1600.mp4"
+        }
+    ]
+}

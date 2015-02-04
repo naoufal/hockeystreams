@@ -6,3 +6,9 @@ node_modules
 *.log
 *.gz
 
+# coverage
+coverage.html
+coverage.json
+
+# test
+test.js

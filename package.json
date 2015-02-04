@@ -3,6 +3,9 @@
   "version": "0.1.1",
   "description": "A node.js wrapper for the HockeySteams API.",
   "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha && ./node_modules/.bin/mocha --require blanket -R html-cov > coverage.html"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/naoufal/node-hockeystreams.git"
@@ -20,8 +23,21 @@
   },
   "homepage": "https://github.com/naoufal/node-hockeystreams",
   "dependencies": {
-    "URIjs": "^1.14.1",
-    "lodash": "^2.4.1",
-    "superagent": "^0.21.0"
+    "URIjs": "1.14.1",
+    "lodash": "2.4.1",
+    "nock": "0.58.0",
+    "superagent": "0.21.0"
+  },
+  "devDependencies": {
+    "blanket": "^1.1.6",
+    "chai": "1.10.0",
+    "mocha": "2.1.0",
+    "nock": "0.58.0"
+  },
+  "config": {
+    "blanket": {
+      "pattern": "//^((?!(node_modules)).)*$/",
+      "data-cover-never": "test"
+    }
   }
 }

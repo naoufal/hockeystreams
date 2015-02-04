@@ -1,0 +1,49 @@
+{
+    "status": "Success",
+    "ondemand": [
+        {
+            "id": "21562",
+            "date": "02/03/2015",
+            "event": "QMJHL",
+            "homeTeam": "Chicoutimi Sagueneens",
+            "awayTeam": "Blainville-Boisbriand Armada",
+            "feedType": "",
+            "isWMV": 0,
+            "isFlash": 1,
+            "isiStream": 1
+        },
+        {
+            "id": "21561",
+            "date": "02/03/2015",
+            "event": "OHL",
+            "homeTeam": "Kitchener Rangers",
+            "awayTeam": "London Knights",
+            "feedType": "",
+            "isWMV": 0,
+            "isFlash": 1,
+            "isiStream": 1
+        },
+        {
+            "id": "21560",
+            "date": "02/03/2015",
+            "event": "QMJHL",
+            "homeTeam": "Moncton Wildcats",
+            "awayTeam": "Halifax Mooseheads",
+            "feedType": "",
+            "isWMV": 0,
+            "isFlash": 1,
+            "isiStream": 1
+        },
+        {
+            "id": "21559",
+            "date": "02/03/2015",
+            "event": "AHL",
+            "homeTeam": "Chicago Wolves",
+            "awayTeam": "Rochester Americans",
+            "feedType": "",
+            "isWMV": 0,
+            "isFlash": 1,
+            "isiStream": 1
+        }
+    ]
+}
