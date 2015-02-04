@@ -36,7 +36,8 @@
   },
   "config": {
     "blanket": {
-      "pattern": "//^((?!(node_modules)).)*$/"
+      "pattern": "//^((?!(node_modules)).)*$/",
+      "data-cover-never": "test"
     }
   }
 }

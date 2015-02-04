@@ -48,6 +48,19 @@ describe('listTeams Method', function() {
     });
   });
 
+  it('should fail to get teams list if site is offline', function(done) {
+    var hs_api = nock('https://api.hockeystreams.com')
+      .get('/ListTeams?token=valid')
+      .reply(404);
+
+    HS.listTeams({
+      token: 'valid'
+    }, function(err, res){
+      var error = assert.isNotNull(err);
+      done(error);
+    });
+  });
+
   it('should fail to get teams list if invalid token is used', function(done) {
     var hs_api = nock('https://api.hockeystreams.com')
       .get('/ListTeams?token=invalid')
@@ -61,7 +74,7 @@ describe('listTeams Method', function() {
   });
 
   it('should fail to get teams list if no token was provided', function(done) {
-    HS.listTeams({}, function(err, res){
+    HS.listTeams(function(err, res){
       var error = assert.isNotNull(err);
       done(error);
     });

@@ -25,6 +25,17 @@ describe('getLocations Method', function() {
     });
   });
 
+  it('should fail to get locations if site is offline', function(done) {
+    var hs_api = nock('https://api.hockeystreams.com')
+      .get('/GetLocations')
+      .reply(404);
+
+    HS.getLocations(function(err, res){
+      var error = assert.isNotNull(err);
+      done(error);
+    });
+  });
+
   it('should throw error if callback is not provided', function(done) {
     try {
       HS.getLocations();

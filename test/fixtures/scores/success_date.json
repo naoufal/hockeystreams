@@ -1,0 +1,52 @@
+{
+    "scores": [
+        {
+            "event": "NHL",
+            "isPlaying": 0,
+            "tv": "SNE, SNO, SNP",
+            "homeTeam": "New York Rangers",
+            "homeTeamCity": "NY Rangers",
+            "homeTeamName": "Rangers",
+            "shortHomeTeam": "NYR",
+            "homeScore": "6",
+            "awayTeam": "Florida Panthers",
+            "awayTeamCity": "Florida",
+            "awayTeamName": "Panthers",
+            "shortAwayTeam": "FLA",
+            "awayScore": "3",
+            "period": "Final"
+        },
+        {
+            "event": "NHL",
+            "isPlaying": 0,
+            "tv": "SNE, SNO, SNP",
+            "homeTeam": "Calgary Flames",
+            "homeTeamCity": "Calgary",
+            "homeTeamName": "Flames",
+            "shortHomeTeam": "CGY",
+            "homeScore": "5",
+            "awayTeam": "Winnipeg Jets",
+            "awayTeamCity": "Winnipeg",
+            "awayTeamName": "Jets",
+            "shortAwayTeam": "WPG",
+            "awayScore": "2",
+            "period": "Final"
+        },
+        {
+            "event": "NHL",
+            "isPlaying": 0,
+            "tv": "SNE, SNO, SNP",
+            "homeTeam": "San Jose Sharks",
+            "homeTeamCity": "San Jose",
+            "homeTeamName": "Sharks",
+            "shortHomeTeam": "SJS",
+            "homeScore": "4",
+            "awayTeam": "Edmonton Oilers",
+            "awayTeamCity": "Edmonton",
+            "awayTeamName": "Oilers",
+            "shortAwayTeam": "EDM",
+            "awayScore": "5",
+            "period": "Final"
+        }
+    ]
+}

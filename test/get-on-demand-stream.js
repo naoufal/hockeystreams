@@ -5,7 +5,7 @@ var HockeyStreams = require('../index');
 
 var FIXTURES = require('./fixtures/index');
 
-describe('getLiveStream Method', function() {
+describe('getOnDemandStream Method', function() {
   var HS;
 
   before(function() {
@@ -15,12 +15,12 @@ describe('getLiveStream Method', function() {
     });
   });
 
-  it('should get live stream successfully', function(done) {
+  it('should get on-demand stream successfully', function(done) {
     var hs_api = nock('https://api.hockeystreams.com')
-      .get('/GetLiveStream?token=valid&id=34725')
-      .reply(200, FIXTURES.getLiveStream.success);
+      .get('/GetOnDemandStream?token=valid&id=34725')
+      .reply(200, FIXTURES.getOnDemandStream.success);
 
-    HS.getLiveStream({
+    HS.getOnDemandStream({
       token: 'valid',
       id: 34725
     }, function(err, res){
@@ -28,12 +28,12 @@ describe('getLiveStream Method', function() {
     });
   });
 
-  it('should get live stream at specific location successfully', function(done) {
+  it('should get on-demand stream at specific location successfully', function(done) {
     var hs_api = nock('https://api.hockeystreams.com')
-      .get('/GetLiveStream?token=valid&id=34725&location=Europe')
-      .reply(200, FIXTURES.getLiveStream.success_location);
+      .get('/GetOnDemandStream?token=valid&id=34725&location=Europe')
+      .reply(200, FIXTURES.getOnDemandStream.success_location);
 
-    HS.getLiveStream({
+    HS.getOnDemandStream({
       token: 'valid',
       id: 34725,
       location: 'Europe'
@@ -43,14 +43,14 @@ describe('getLiveStream Method', function() {
     });
   });
 
-  it('should fail to get live stream if site is offline', function(done) {
+  it('should fail to get on-demand stream if site is offline', function(done) {
     var hs_api = nock('https://api.hockeystreams.com')
-      .get('/GetLiveStream?token=valid&id=34725')
+      .get('/GetOnDemandStream?token=valid&id=34725')
       .reply(404);
 
-    HS.getLiveStream({
+    HS.getOnDemandStream({
       token: 'valid',
-      id: 34725,
+      id: 34725
     }, function(err, res){
       var error = assert.isNotNull(err);
       done(error);
@@ -58,8 +58,8 @@ describe('getLiveStream Method', function() {
   });
 
 
-  it('should fail to get live stream without id', function(done) {
-    HS.getLiveStream({
+  it('should fail to get on-demand stream without id', function(done) {
+    HS.getOnDemandStream({
       token: 'valid'
     }, function(err, res){
       var error = assert.isNotNull(err);
@@ -67,12 +67,12 @@ describe('getLiveStream Method', function() {
     });
   });
 
-  it('should fail to get live stream if invalid token is used', function(done) {
+  it('should fail to get on-demand stream if invalid token is used', function(done) {
     var hs_api = nock("https://api.hockeystreams.com")
-      .get("/GetLiveStream?token=invalid&id=12345")
-      .reply(200, FIXTURES.getLiveStream.fail);
+      .get("/GetOnDemandStream?token=invalid&id=12345")
+      .reply(200, FIXTURES.getOnDemandStream.fail);
 
-    HS.getLiveStream({
+    HS.getOnDemandStream({
       token: 'invalid',
       id: 12345,
     }, function(err, res){
@@ -81,15 +81,15 @@ describe('getLiveStream Method', function() {
     });
   });
 
-  it('should fail to get live stream if no token was provided', function(done) {
-    HS.getLiveStream({}, function(err, res){
+  it('should fail to get on-demand stream if no token was provided', function(done) {
+    HS.getOnDemandStream({}, function(err, res){
       var error = assert.isNotNull(err);
       done(error);
     });
   });
 
-  it('should fail to get live stream if no options were was provided', function(done) {
-    HS.getLiveStream(function(err, res){
+  it('should fail to get on-demand stream if no options were was provided', function(done) {
+    HS.getOnDemandStream(function(err, res){
       var error = assert.isNotNull(err);
       done(error);
     });

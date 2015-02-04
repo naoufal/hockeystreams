@@ -43,6 +43,21 @@ describe('login Method', function() {
     });
   });
 
+  it('should fail to login if site is offline', function(done) {
+    var hs_api = nock('https://api.hockeystreams.com')
+      .post('/Login')
+      .reply(404);
+
+    HS.login({
+      username: 'good-username',
+      password: 'good-password'
+    }, function(err, res){
+      var error = assert.isNotNull(err);
+      done(error);
+    });
+  });
+
+
   it('should fail to login if no username is specified', function() {
     HS.login({
       password: 'good-password'

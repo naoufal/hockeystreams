@@ -39,8 +39,21 @@ describe('getOnDemandDates Method', function() {
     });
   });
 
+  it('should fail to get on-demand dates if site is offline', function(done) {
+    var hs_api = nock('https://api.hockeystreams.com')
+      .get('/GetOnDemandDates?token=valid')
+      .reply(404);
+
+    HS.getOnDemandDates({
+      token: 'valid'
+    }, function(err, res){
+      var error = assert.isNotNull(err);
+      done(error);
+    });
+  });
+
   it('should fail to get on-demand dates if no token was provided', function(done) {
-    HS.getOnDemandDates({}, function(err, res){
+    HS.getOnDemandDates(function(err, res){
       var error = assert.isNotNull(err);
       done(error);
     });

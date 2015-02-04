@@ -1,4 +1,3 @@
-var _      = require('lodash');
 var assert = require('chai').assert;
 var nock   = require('nock');
 var URI    = require('URIjs');
@@ -45,6 +44,19 @@ describe('getLive Method', function() {
       date: filter_date
     }, function(err, res){
       done(err);
+    });
+  });
+
+  it('should fail to get live feeds if site is offline', function(done) {
+    var hs_api = nock('https://api.hockeystreams.com')
+      .get('/GetLive?token=valid')
+      .reply(404);
+
+    HS.getLive({
+      token: 'valid'
+    }, function(err, res){
+      var error = assert.isNotNull(err);
+      done(error);
     });
   });
 
